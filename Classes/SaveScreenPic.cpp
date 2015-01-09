@@ -23,9 +23,9 @@ bool SaveScreenPic::saveJPG(char *rePath)
     unsigned long len = 0;
     unsigned char* data = NULL;
 
-    //定义一个屏幕大小的渲染纹理
+
     ETRenderTexture* pScreen = ETRenderTexture::create(size.width, size.height, kCCTexture2DPixelFormat_RGBA8888);
-    //获得当前的场景指针
+
     Scene* pCurScene = Director::getInstance()->getRunningScene();
 
     pScreen->beginWithClear(0.0f, 0.0f, 0.0f, 0.0f);

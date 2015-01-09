@@ -59,32 +59,6 @@
 		D44C620E132DFF430009C878 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620D132DFF430009C878 /* AVFoundation.framework */; };
 		D44C6210132DFF4E0009C878 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620F132DFF4E0009C878 /* AudioToolbox.framework */; };
 		D6B0611B1803AB670077942B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6B0611A1803AB670077942B /* CoreMotion.framework */; };
-		E846DF1C1A5FC6B9007378A6 /* BlockBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DEFF1A5FC6B9007378A6 /* BlockBar.cpp */; };
-		E846DF1D1A5FC6B9007378A6 /* BlockBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DEFF1A5FC6B9007378A6 /* BlockBar.cpp */; };
-		E846DF1E1A5FC6B9007378A6 /* BlockBgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF011A5FC6B9007378A6 /* BlockBgLayer.cpp */; };
-		E846DF1F1A5FC6B9007378A6 /* BlockBgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF011A5FC6B9007378A6 /* BlockBgLayer.cpp */; };
-		E846DF201A5FC6B9007378A6 /* BlockEncrypt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF041A5FC6B9007378A6 /* BlockEncrypt.cpp */; };
-		E846DF211A5FC6B9007378A6 /* BlockEncrypt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF041A5FC6B9007378A6 /* BlockEncrypt.cpp */; };
-		E846DF221A5FC6B9007378A6 /* BlockFgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF061A5FC6B9007378A6 /* BlockFgLayer.cpp */; };
-		E846DF231A5FC6B9007378A6 /* BlockFgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF061A5FC6B9007378A6 /* BlockFgLayer.cpp */; };
-		E846DF241A5FC6B9007378A6 /* BlockFgToast.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF081A5FC6B9007378A6 /* BlockFgToast.cpp */; };
-		E846DF251A5FC6B9007378A6 /* BlockFgToast.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF081A5FC6B9007378A6 /* BlockFgToast.cpp */; };
-		E846DF261A5FC6B9007378A6 /* BlockGameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0A1A5FC6B9007378A6 /* BlockGameScene.cpp */; };
-		E846DF271A5FC6B9007378A6 /* BlockGameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0A1A5FC6B9007378A6 /* BlockGameScene.cpp */; };
-		E846DF281A5FC6B9007378A6 /* BlockLoadingScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0C1A5FC6B9007378A6 /* BlockLoadingScene.cpp */; };
-		E846DF291A5FC6B9007378A6 /* BlockLoadingScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0C1A5FC6B9007378A6 /* BlockLoadingScene.cpp */; };
-		E846DF2A1A5FC6B9007378A6 /* BlockMainScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0E1A5FC6B9007378A6 /* BlockMainScene.cpp */; };
-		E846DF2B1A5FC6B9007378A6 /* BlockMainScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF0E1A5FC6B9007378A6 /* BlockMainScene.cpp */; };
-		E846DF2C1A5FC6B9007378A6 /* BlockPassLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF101A5FC6B9007378A6 /* BlockPassLayer.cpp */; };
-		E846DF2D1A5FC6B9007378A6 /* BlockPassLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF101A5FC6B9007378A6 /* BlockPassLayer.cpp */; };
-		E846DF2E1A5FC6B9007378A6 /* BlockSongManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF141A5FC6B9007378A6 /* BlockSongManager.cpp */; };
-		E846DF2F1A5FC6B9007378A6 /* BlockSongManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF141A5FC6B9007378A6 /* BlockSongManager.cpp */; };
-		E846DF301A5FC6B9007378A6 /* BlockTouchLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF161A5FC6B9007378A6 /* BlockTouchLayer.cpp */; };
-		E846DF311A5FC6B9007378A6 /* BlockTouchLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF161A5FC6B9007378A6 /* BlockTouchLayer.cpp */; };
-		E846DF321A5FC6B9007378A6 /* FgShareLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF181A5FC6B9007378A6 /* FgShareLayer.cpp */; };
-		E846DF331A5FC6B9007378A6 /* FgShareLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF181A5FC6B9007378A6 /* FgShareLayer.cpp */; };
-		E846DF341A5FC6B9007378A6 /* SaveScreenPic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF1A1A5FC6B9007378A6 /* SaveScreenPic.cpp */; };
-		E846DF351A5FC6B9007378A6 /* SaveScreenPic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DF1A1A5FC6B9007378A6 /* SaveScreenPic.cpp */; };
 		E846DF621A5FC6C8007378A6 /* bg in Resources */ = {isa = PBXBuildFile; fileRef = E846DF361A5FC6C8007378A6 /* bg */; };
 		E846DF631A5FC6C8007378A6 /* bg in Resources */ = {isa = PBXBuildFile; fileRef = E846DF361A5FC6C8007378A6 /* bg */; };
 		E846DF641A5FC6C8007378A6 /* bg-classic.png in Resources */ = {isa = PBXBuildFile; fileRef = E846DF371A5FC6C8007378A6 /* bg-classic.png */; };
@@ -180,6 +154,34 @@
 		E846DFC51A5FC7B5007378A6 /* libtiff_arm64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E846DFBE1A5FC7B5007378A6 /* libtiff_arm64.a */; };
 		E846DFC61A5FC7B5007378A6 /* libwebp_arm64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E846DFBF1A5FC7B5007378A6 /* libwebp_arm64.a */; };
 		E846DFC71A5FC7B5007378A6 /* libwebsockets_arm64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E846DFC01A5FC7B5007378A6 /* libwebsockets_arm64.a */; };
+		E846DFE81A5FCC71007378A6 /* BlockBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFCB1A5FCC71007378A6 /* BlockBar.cpp */; };
+		E846DFE91A5FCC71007378A6 /* BlockBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFCB1A5FCC71007378A6 /* BlockBar.cpp */; };
+		E846DFEA1A5FCC71007378A6 /* BlockBgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFCD1A5FCC71007378A6 /* BlockBgLayer.cpp */; };
+		E846DFEB1A5FCC71007378A6 /* BlockBgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFCD1A5FCC71007378A6 /* BlockBgLayer.cpp */; };
+		E846DFEC1A5FCC71007378A6 /* BlockEncrypt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD01A5FCC71007378A6 /* BlockEncrypt.cpp */; };
+		E846DFED1A5FCC71007378A6 /* BlockEncrypt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD01A5FCC71007378A6 /* BlockEncrypt.cpp */; };
+		E846DFEE1A5FCC71007378A6 /* BlockFgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD21A5FCC71007378A6 /* BlockFgLayer.cpp */; };
+		E846DFEF1A5FCC71007378A6 /* BlockFgLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD21A5FCC71007378A6 /* BlockFgLayer.cpp */; };
+		E846DFF01A5FCC71007378A6 /* BlockFgToast.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD41A5FCC71007378A6 /* BlockFgToast.cpp */; };
+		E846DFF11A5FCC71007378A6 /* BlockFgToast.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD41A5FCC71007378A6 /* BlockFgToast.cpp */; };
+		E846DFF21A5FCC71007378A6 /* BlockGameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD61A5FCC71007378A6 /* BlockGameScene.cpp */; };
+		E846DFF31A5FCC71007378A6 /* BlockGameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD61A5FCC71007378A6 /* BlockGameScene.cpp */; };
+		E846DFF41A5FCC71007378A6 /* BlockLoadingScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD81A5FCC71007378A6 /* BlockLoadingScene.cpp */; };
+		E846DFF51A5FCC71007378A6 /* BlockLoadingScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFD81A5FCC71007378A6 /* BlockLoadingScene.cpp */; };
+		E846DFF61A5FCC71007378A6 /* BlockMainScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFDA1A5FCC71007378A6 /* BlockMainScene.cpp */; };
+		E846DFF71A5FCC71007378A6 /* BlockMainScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFDA1A5FCC71007378A6 /* BlockMainScene.cpp */; };
+		E846DFF81A5FCC71007378A6 /* BlockPassLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFDC1A5FCC71007378A6 /* BlockPassLayer.cpp */; };
+		E846DFF91A5FCC71007378A6 /* BlockPassLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFDC1A5FCC71007378A6 /* BlockPassLayer.cpp */; };
+		E846DFFA1A5FCC71007378A6 /* BlockSongManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE01A5FCC71007378A6 /* BlockSongManager.cpp */; };
+		E846DFFB1A5FCC71007378A6 /* BlockSongManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE01A5FCC71007378A6 /* BlockSongManager.cpp */; };
+		E846DFFC1A5FCC71007378A6 /* BlockTouchLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE21A5FCC71007378A6 /* BlockTouchLayer.cpp */; };
+		E846DFFD1A5FCC71007378A6 /* BlockTouchLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE21A5FCC71007378A6 /* BlockTouchLayer.cpp */; };
+		E846DFFE1A5FCC71007378A6 /* FgShareLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE41A5FCC71007378A6 /* FgShareLayer.cpp */; };
+		E846DFFF1A5FCC71007378A6 /* FgShareLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE41A5FCC71007378A6 /* FgShareLayer.cpp */; };
+		E846E0001A5FCC71007378A6 /* SaveScreenPic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE61A5FCC71007378A6 /* SaveScreenPic.cpp */; };
+		E846E0011A5FCC71007378A6 /* SaveScreenPic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846DFE61A5FCC71007378A6 /* SaveScreenPic.cpp */; };
+		E846E0041A5FCC97007378A6 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846E0021A5FCC97007378A6 /* AppDelegate.cpp */; };
+		E846E0051A5FCC97007378A6 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E846E0021A5FCC97007378A6 /* AppDelegate.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -371,35 +373,6 @@
 		D44C620D132DFF430009C878 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		D44C620F132DFF4E0009C878 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		D6B0611A1803AB670077942B /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework; sourceTree = DEVELOPER_DIR; };
-		E846DEFF1A5FC6B9007378A6 /* BlockBar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockBar.cpp; path = ../Classes/BlockBar.cpp; sourceTree = "<group>"; };
-		E846DF001A5FC6B9007378A6 /* BlockBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockBar.h; path = ../Classes/BlockBar.h; sourceTree = "<group>"; };
-		E846DF011A5FC6B9007378A6 /* BlockBgLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockBgLayer.cpp; path = ../Classes/BlockBgLayer.cpp; sourceTree = "<group>"; };
-		E846DF021A5FC6B9007378A6 /* BlockBgLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockBgLayer.h; path = ../Classes/BlockBgLayer.h; sourceTree = "<group>"; };
-		E846DF031A5FC6B9007378A6 /* BlockCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockCommon.h; path = ../Classes/BlockCommon.h; sourceTree = "<group>"; };
-		E846DF041A5FC6B9007378A6 /* BlockEncrypt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockEncrypt.cpp; path = ../Classes/BlockEncrypt.cpp; sourceTree = "<group>"; };
-		E846DF051A5FC6B9007378A6 /* BlockEncrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockEncrypt.h; path = ../Classes/BlockEncrypt.h; sourceTree = "<group>"; };
-		E846DF061A5FC6B9007378A6 /* BlockFgLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockFgLayer.cpp; path = ../Classes/BlockFgLayer.cpp; sourceTree = "<group>"; };
-		E846DF071A5FC6B9007378A6 /* BlockFgLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockFgLayer.h; path = ../Classes/BlockFgLayer.h; sourceTree = "<group>"; };
-		E846DF081A5FC6B9007378A6 /* BlockFgToast.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockFgToast.cpp; path = ../Classes/BlockFgToast.cpp; sourceTree = "<group>"; };
-		E846DF091A5FC6B9007378A6 /* BlockFgToast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockFgToast.h; path = ../Classes/BlockFgToast.h; sourceTree = "<group>"; };
-		E846DF0A1A5FC6B9007378A6 /* BlockGameScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockGameScene.cpp; path = ../Classes/BlockGameScene.cpp; sourceTree = "<group>"; };
-		E846DF0B1A5FC6B9007378A6 /* BlockGameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockGameScene.h; path = ../Classes/BlockGameScene.h; sourceTree = "<group>"; };
-		E846DF0C1A5FC6B9007378A6 /* BlockLoadingScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockLoadingScene.cpp; path = ../Classes/BlockLoadingScene.cpp; sourceTree = "<group>"; };
-		E846DF0D1A5FC6B9007378A6 /* BlockLoadingScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockLoadingScene.h; path = ../Classes/BlockLoadingScene.h; sourceTree = "<group>"; };
-		E846DF0E1A5FC6B9007378A6 /* BlockMainScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockMainScene.cpp; path = ../Classes/BlockMainScene.cpp; sourceTree = "<group>"; };
-		E846DF0F1A5FC6B9007378A6 /* BlockMainScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockMainScene.h; path = ../Classes/BlockMainScene.h; sourceTree = "<group>"; };
-		E846DF101A5FC6B9007378A6 /* BlockPassLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockPassLayer.cpp; path = ../Classes/BlockPassLayer.cpp; sourceTree = "<group>"; };
-		E846DF111A5FC6B9007378A6 /* BlockPassLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockPassLayer.h; path = ../Classes/BlockPassLayer.h; sourceTree = "<group>"; };
-		E846DF121A5FC6B9007378A6 /* BlockResouce.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockResouce.h; path = ../Classes/BlockResouce.h; sourceTree = "<group>"; };
-		E846DF131A5FC6B9007378A6 /* BlockSong.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockSong.h; path = ../Classes/BlockSong.h; sourceTree = "<group>"; };
-		E846DF141A5FC6B9007378A6 /* BlockSongManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockSongManager.cpp; path = ../Classes/BlockSongManager.cpp; sourceTree = "<group>"; };
-		E846DF151A5FC6B9007378A6 /* BlockSongManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockSongManager.h; path = ../Classes/BlockSongManager.h; sourceTree = "<group>"; };
-		E846DF161A5FC6B9007378A6 /* BlockTouchLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockTouchLayer.cpp; path = ../Classes/BlockTouchLayer.cpp; sourceTree = "<group>"; };
-		E846DF171A5FC6B9007378A6 /* BlockTouchLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockTouchLayer.h; path = ../Classes/BlockTouchLayer.h; sourceTree = "<group>"; };
-		E846DF181A5FC6B9007378A6 /* FgShareLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FgShareLayer.cpp; path = ../Classes/FgShareLayer.cpp; sourceTree = "<group>"; };
-		E846DF191A5FC6B9007378A6 /* FgShareLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FgShareLayer.h; path = ../Classes/FgShareLayer.h; sourceTree = "<group>"; };
-		E846DF1A1A5FC6B9007378A6 /* SaveScreenPic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SaveScreenPic.cpp; path = ../Classes/SaveScreenPic.cpp; sourceTree = "<group>"; };
-		E846DF1B1A5FC6B9007378A6 /* SaveScreenPic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaveScreenPic.h; path = ../Classes/SaveScreenPic.h; sourceTree = "<group>"; };
 		E846DF361A5FC6C8007378A6 /* bg */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bg; sourceTree = "<group>"; };
 		E846DF371A5FC6C8007378A6 /* bg-classic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-classic.png"; sourceTree = "<group>"; };
 		E846DF381A5FC6C8007378A6 /* bg-fail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-fail.png"; sourceTree = "<group>"; };
@@ -451,6 +424,37 @@
 		E846DFBE1A5FC7B5007378A6 /* libtiff_arm64.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libtiff_arm64.a; path = ../cocos2d/external/tiff/prebuilt/ios/libtiff_arm64.a; sourceTree = "<group>"; };
 		E846DFBF1A5FC7B5007378A6 /* libwebp_arm64.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libwebp_arm64.a; path = ../cocos2d/external/webp/prebuilt/ios/libwebp_arm64.a; sourceTree = "<group>"; };
 		E846DFC01A5FC7B5007378A6 /* libwebsockets_arm64.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libwebsockets_arm64.a; path = ../cocos2d/external/websockets/prebuilt/ios/libwebsockets_arm64.a; sourceTree = "<group>"; };
+		E846DFCB1A5FCC71007378A6 /* BlockBar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockBar.cpp; path = ../Classes/BlockBar.cpp; sourceTree = "<group>"; };
+		E846DFCC1A5FCC71007378A6 /* BlockBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockBar.h; path = ../Classes/BlockBar.h; sourceTree = "<group>"; };
+		E846DFCD1A5FCC71007378A6 /* BlockBgLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockBgLayer.cpp; path = ../Classes/BlockBgLayer.cpp; sourceTree = "<group>"; };
+		E846DFCE1A5FCC71007378A6 /* BlockBgLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockBgLayer.h; path = ../Classes/BlockBgLayer.h; sourceTree = "<group>"; };
+		E846DFCF1A5FCC71007378A6 /* BlockCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockCommon.h; path = ../Classes/BlockCommon.h; sourceTree = "<group>"; };
+		E846DFD01A5FCC71007378A6 /* BlockEncrypt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockEncrypt.cpp; path = ../Classes/BlockEncrypt.cpp; sourceTree = "<group>"; };
+		E846DFD11A5FCC71007378A6 /* BlockEncrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockEncrypt.h; path = ../Classes/BlockEncrypt.h; sourceTree = "<group>"; };
+		E846DFD21A5FCC71007378A6 /* BlockFgLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockFgLayer.cpp; path = ../Classes/BlockFgLayer.cpp; sourceTree = "<group>"; };
+		E846DFD31A5FCC71007378A6 /* BlockFgLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockFgLayer.h; path = ../Classes/BlockFgLayer.h; sourceTree = "<group>"; };
+		E846DFD41A5FCC71007378A6 /* BlockFgToast.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockFgToast.cpp; path = ../Classes/BlockFgToast.cpp; sourceTree = "<group>"; };
+		E846DFD51A5FCC71007378A6 /* BlockFgToast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockFgToast.h; path = ../Classes/BlockFgToast.h; sourceTree = "<group>"; };
+		E846DFD61A5FCC71007378A6 /* BlockGameScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockGameScene.cpp; path = ../Classes/BlockGameScene.cpp; sourceTree = "<group>"; };
+		E846DFD71A5FCC71007378A6 /* BlockGameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockGameScene.h; path = ../Classes/BlockGameScene.h; sourceTree = "<group>"; };
+		E846DFD81A5FCC71007378A6 /* BlockLoadingScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockLoadingScene.cpp; path = ../Classes/BlockLoadingScene.cpp; sourceTree = "<group>"; };
+		E846DFD91A5FCC71007378A6 /* BlockLoadingScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockLoadingScene.h; path = ../Classes/BlockLoadingScene.h; sourceTree = "<group>"; };
+		E846DFDA1A5FCC71007378A6 /* BlockMainScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockMainScene.cpp; path = ../Classes/BlockMainScene.cpp; sourceTree = "<group>"; };
+		E846DFDB1A5FCC71007378A6 /* BlockMainScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockMainScene.h; path = ../Classes/BlockMainScene.h; sourceTree = "<group>"; };
+		E846DFDC1A5FCC71007378A6 /* BlockPassLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockPassLayer.cpp; path = ../Classes/BlockPassLayer.cpp; sourceTree = "<group>"; };
+		E846DFDD1A5FCC71007378A6 /* BlockPassLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockPassLayer.h; path = ../Classes/BlockPassLayer.h; sourceTree = "<group>"; };
+		E846DFDE1A5FCC71007378A6 /* BlockResouce.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockResouce.h; path = ../Classes/BlockResouce.h; sourceTree = "<group>"; };
+		E846DFDF1A5FCC71007378A6 /* BlockSong.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockSong.h; path = ../Classes/BlockSong.h; sourceTree = "<group>"; };
+		E846DFE01A5FCC71007378A6 /* BlockSongManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockSongManager.cpp; path = ../Classes/BlockSongManager.cpp; sourceTree = "<group>"; };
+		E846DFE11A5FCC71007378A6 /* BlockSongManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockSongManager.h; path = ../Classes/BlockSongManager.h; sourceTree = "<group>"; };
+		E846DFE21A5FCC71007378A6 /* BlockTouchLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BlockTouchLayer.cpp; path = ../Classes/BlockTouchLayer.cpp; sourceTree = "<group>"; };
+		E846DFE31A5FCC71007378A6 /* BlockTouchLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlockTouchLayer.h; path = ../Classes/BlockTouchLayer.h; sourceTree = "<group>"; };
+		E846DFE41A5FCC71007378A6 /* FgShareLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FgShareLayer.cpp; path = ../Classes/FgShareLayer.cpp; sourceTree = "<group>"; };
+		E846DFE51A5FCC71007378A6 /* FgShareLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FgShareLayer.h; path = ../Classes/FgShareLayer.h; sourceTree = "<group>"; };
+		E846DFE61A5FCC71007378A6 /* SaveScreenPic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SaveScreenPic.cpp; path = ../Classes/SaveScreenPic.cpp; sourceTree = "<group>"; };
+		E846DFE71A5FCC71007378A6 /* SaveScreenPic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaveScreenPic.h; path = ../Classes/SaveScreenPic.h; sourceTree = "<group>"; };
+		E846E0021A5FCC97007378A6 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = ../Classes/AppDelegate.cpp; sourceTree = "<group>"; };
+		E846E0031A5FCC97007378A6 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../Classes/AppDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -527,35 +531,37 @@
 		15AA9C4015B7EC450033D6C2 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				E846DEFF1A5FC6B9007378A6 /* BlockBar.cpp */,
-				E846DF001A5FC6B9007378A6 /* BlockBar.h */,
-				E846DF011A5FC6B9007378A6 /* BlockBgLayer.cpp */,
-				E846DF021A5FC6B9007378A6 /* BlockBgLayer.h */,
-				E846DF031A5FC6B9007378A6 /* BlockCommon.h */,
-				E846DF041A5FC6B9007378A6 /* BlockEncrypt.cpp */,
-				E846DF051A5FC6B9007378A6 /* BlockEncrypt.h */,
-				E846DF061A5FC6B9007378A6 /* BlockFgLayer.cpp */,
-				E846DF071A5FC6B9007378A6 /* BlockFgLayer.h */,
-				E846DF081A5FC6B9007378A6 /* BlockFgToast.cpp */,
-				E846DF091A5FC6B9007378A6 /* BlockFgToast.h */,
-				E846DF0A1A5FC6B9007378A6 /* BlockGameScene.cpp */,
-				E846DF0B1A5FC6B9007378A6 /* BlockGameScene.h */,
-				E846DF0C1A5FC6B9007378A6 /* BlockLoadingScene.cpp */,
-				E846DF0D1A5FC6B9007378A6 /* BlockLoadingScene.h */,
-				E846DF0E1A5FC6B9007378A6 /* BlockMainScene.cpp */,
-				E846DF0F1A5FC6B9007378A6 /* BlockMainScene.h */,
-				E846DF101A5FC6B9007378A6 /* BlockPassLayer.cpp */,
-				E846DF111A5FC6B9007378A6 /* BlockPassLayer.h */,
-				E846DF121A5FC6B9007378A6 /* BlockResouce.h */,
-				E846DF131A5FC6B9007378A6 /* BlockSong.h */,
-				E846DF141A5FC6B9007378A6 /* BlockSongManager.cpp */,
-				E846DF151A5FC6B9007378A6 /* BlockSongManager.h */,
-				E846DF161A5FC6B9007378A6 /* BlockTouchLayer.cpp */,
-				E846DF171A5FC6B9007378A6 /* BlockTouchLayer.h */,
-				E846DF181A5FC6B9007378A6 /* FgShareLayer.cpp */,
-				E846DF191A5FC6B9007378A6 /* FgShareLayer.h */,
-				E846DF1A1A5FC6B9007378A6 /* SaveScreenPic.cpp */,
-				E846DF1B1A5FC6B9007378A6 /* SaveScreenPic.h */,
+				E846E0021A5FCC97007378A6 /* AppDelegate.cpp */,
+				E846E0031A5FCC97007378A6 /* AppDelegate.h */,
+				E846DFCB1A5FCC71007378A6 /* BlockBar.cpp */,
+				E846DFCC1A5FCC71007378A6 /* BlockBar.h */,
+				E846DFCD1A5FCC71007378A6 /* BlockBgLayer.cpp */,
+				E846DFCE1A5FCC71007378A6 /* BlockBgLayer.h */,
+				E846DFCF1A5FCC71007378A6 /* BlockCommon.h */,
+				E846DFD01A5FCC71007378A6 /* BlockEncrypt.cpp */,
+				E846DFD11A5FCC71007378A6 /* BlockEncrypt.h */,
+				E846DFD21A5FCC71007378A6 /* BlockFgLayer.cpp */,
+				E846DFD31A5FCC71007378A6 /* BlockFgLayer.h */,
+				E846DFD41A5FCC71007378A6 /* BlockFgToast.cpp */,
+				E846DFD51A5FCC71007378A6 /* BlockFgToast.h */,
+				E846DFD61A5FCC71007378A6 /* BlockGameScene.cpp */,
+				E846DFD71A5FCC71007378A6 /* BlockGameScene.h */,
+				E846DFD81A5FCC71007378A6 /* BlockLoadingScene.cpp */,
+				E846DFD91A5FCC71007378A6 /* BlockLoadingScene.h */,
+				E846DFDA1A5FCC71007378A6 /* BlockMainScene.cpp */,
+				E846DFDB1A5FCC71007378A6 /* BlockMainScene.h */,
+				E846DFDC1A5FCC71007378A6 /* BlockPassLayer.cpp */,
+				E846DFDD1A5FCC71007378A6 /* BlockPassLayer.h */,
+				E846DFDE1A5FCC71007378A6 /* BlockResouce.h */,
+				E846DFDF1A5FCC71007378A6 /* BlockSong.h */,
+				E846DFE01A5FCC71007378A6 /* BlockSongManager.cpp */,
+				E846DFE11A5FCC71007378A6 /* BlockSongManager.h */,
+				E846DFE21A5FCC71007378A6 /* BlockTouchLayer.cpp */,
+				E846DFE31A5FCC71007378A6 /* BlockTouchLayer.h */,
+				E846DFE41A5FCC71007378A6 /* FgShareLayer.cpp */,
+				E846DFE51A5FCC71007378A6 /* FgShareLayer.h */,
+				E846DFE61A5FCC71007378A6 /* SaveScreenPic.cpp */,
+				E846DFE71A5FCC71007378A6 /* SaveScreenPic.h */,
 			);
 			name = Classes;
 			path = ../classes;
@@ -783,7 +789,7 @@
 				LastUpgradeCheck = 0500;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = MDDB52YB8L;
+						DevelopmentTeam = YZS43ZVZ7N;
 					};
 				};
 			};
@@ -1013,22 +1019,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E846DF1E1A5FC6B9007378A6 /* BlockBgLayer.cpp in Sources */,
-				E846DF261A5FC6B9007378A6 /* BlockGameScene.cpp in Sources */,
-				E846DF321A5FC6B9007378A6 /* FgShareLayer.cpp in Sources */,
-				E846DF2E1A5FC6B9007378A6 /* BlockSongManager.cpp in Sources */,
+				E846DFEA1A5FCC71007378A6 /* BlockBgLayer.cpp in Sources */,
+				E846DFF21A5FCC71007378A6 /* BlockGameScene.cpp in Sources */,
+				E846E0041A5FCC97007378A6 /* AppDelegate.cpp in Sources */,
+				E846DFFE1A5FCC71007378A6 /* FgShareLayer.cpp in Sources */,
+				E846DFFA1A5FCC71007378A6 /* BlockSongManager.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
-				E846DF281A5FC6B9007378A6 /* BlockLoadingScene.cpp in Sources */,
-				E846DF2A1A5FC6B9007378A6 /* BlockMainScene.cpp in Sources */,
-				E846DF1C1A5FC6B9007378A6 /* BlockBar.cpp in Sources */,
-				E846DF2C1A5FC6B9007378A6 /* BlockPassLayer.cpp in Sources */,
+				E846DFF41A5FCC71007378A6 /* BlockLoadingScene.cpp in Sources */,
+				E846DFF61A5FCC71007378A6 /* BlockMainScene.cpp in Sources */,
+				E846DFE81A5FCC71007378A6 /* BlockBar.cpp in Sources */,
+				E846DFF81A5FCC71007378A6 /* BlockPassLayer.cpp in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
-				E846DF301A5FC6B9007378A6 /* BlockTouchLayer.cpp in Sources */,
-				E846DF241A5FC6B9007378A6 /* BlockFgToast.cpp in Sources */,
+				E846DFFC1A5FCC71007378A6 /* BlockTouchLayer.cpp in Sources */,
+				E846DFF01A5FCC71007378A6 /* BlockFgToast.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
-				E846DF341A5FC6B9007378A6 /* SaveScreenPic.cpp in Sources */,
-				E846DF221A5FC6B9007378A6 /* BlockFgLayer.cpp in Sources */,
-				E846DF201A5FC6B9007378A6 /* BlockEncrypt.cpp in Sources */,
+				E846E0001A5FCC71007378A6 /* SaveScreenPic.cpp in Sources */,
+				E846DFEE1A5FCC71007378A6 /* BlockFgLayer.cpp in Sources */,
+				E846DFEC1A5FCC71007378A6 /* BlockEncrypt.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1037,19 +1044,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				503AE10517EB98FF00D1A890 /* main.cpp in Sources */,
-				E846DF211A5FC6B9007378A6 /* BlockEncrypt.cpp in Sources */,
-				E846DF251A5FC6B9007378A6 /* BlockFgToast.cpp in Sources */,
-				E846DF311A5FC6B9007378A6 /* BlockTouchLayer.cpp in Sources */,
-				E846DF231A5FC6B9007378A6 /* BlockFgLayer.cpp in Sources */,
-				E846DF2D1A5FC6B9007378A6 /* BlockPassLayer.cpp in Sources */,
-				E846DF1D1A5FC6B9007378A6 /* BlockBar.cpp in Sources */,
-				E846DF291A5FC6B9007378A6 /* BlockLoadingScene.cpp in Sources */,
-				E846DF1F1A5FC6B9007378A6 /* BlockBgLayer.cpp in Sources */,
-				E846DF351A5FC6B9007378A6 /* SaveScreenPic.cpp in Sources */,
-				E846DF2B1A5FC6B9007378A6 /* BlockMainScene.cpp in Sources */,
-				E846DF2F1A5FC6B9007378A6 /* BlockSongManager.cpp in Sources */,
-				E846DF271A5FC6B9007378A6 /* BlockGameScene.cpp in Sources */,
-				E846DF331A5FC6B9007378A6 /* FgShareLayer.cpp in Sources */,
+				E846DFED1A5FCC71007378A6 /* BlockEncrypt.cpp in Sources */,
+				E846E0051A5FCC97007378A6 /* AppDelegate.cpp in Sources */,
+				E846DFF11A5FCC71007378A6 /* BlockFgToast.cpp in Sources */,
+				E846DFFD1A5FCC71007378A6 /* BlockTouchLayer.cpp in Sources */,
+				E846DFEF1A5FCC71007378A6 /* BlockFgLayer.cpp in Sources */,
+				E846DFF91A5FCC71007378A6 /* BlockPassLayer.cpp in Sources */,
+				E846DFE91A5FCC71007378A6 /* BlockBar.cpp in Sources */,
+				E846DFF51A5FCC71007378A6 /* BlockLoadingScene.cpp in Sources */,
+				E846DFEB1A5FCC71007378A6 /* BlockBgLayer.cpp in Sources */,
+				E846E0011A5FCC71007378A6 /* SaveScreenPic.cpp in Sources */,
+				E846DFF71A5FCC71007378A6 /* BlockMainScene.cpp in Sources */,
+				E846DFFB1A5FCC71007378A6 /* BlockSongManager.cpp in Sources */,
+				E846DFF31A5FCC71007378A6 /* BlockGameScene.cpp in Sources */,
+				E846DFFF1A5FCC71007378A6 /* FgShareLayer.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -12,7 +12,7 @@ bool BlockLoadingScene::init()
 
 void BlockLoadingScene::initAction()
 {
-	Sprite *pIcon = Sprite::create(szImgIcon);
+	Sprite *pIcon = Sprite::create(szImgBlockBlackUnClicked);
     pIcon->setPosition(BLOCKPOS(DWIDTH / 2, DHEIGHT / 2));
     pIcon->setOpacity(0);
     pIcon->runAction(

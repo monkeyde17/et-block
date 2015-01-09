@@ -114,6 +114,9 @@ void BlockMainScene::moregameCallback(Object *pSender)
 {
     BlockSongManager::getInstance()->button();
     CCLOG("More");
+    
+    return ;
+    
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
     JniMethodInfo methodInfo;
     bool isHave = JniHelper::getStaticMethodInfo(methodInfo,
@@ -163,6 +166,8 @@ void BlockMainScene::aboutCallback(Object *pSender)
 {
     BlockSongManager::getInstance()->button();
 	CCLOG("About");
-    BlockFgToast *pToast = BlockFgToast::create(szImgToastAbout);
-	addChild(pToast, 99999, 99999);
+    return ;
+    
+    //BlockFgToast *pToast = BlockFgToast::create(szImgToastAbout);
+	//addChild(pToast, 99999, 99999);
 }
