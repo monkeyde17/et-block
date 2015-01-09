@@ -1,0 +1,7 @@
+__*
+
+*.o
+zBackup
+publish
+proj.win32
+proj.wp8-xaml
